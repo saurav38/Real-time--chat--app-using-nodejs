@@ -6,6 +6,6 @@ Basic real time chat application with;
 
 Difficulty :full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon::new_moon::new_moon:
 
-### Bilal Cagiran  | [E-Mail](mailto:bcagiran@hotmail.com) | [Github](https://github.com/extwiii/) | [LinkedIn](https://linkedin.com/in/bilalcagiran) | [CodePen](http://codepen.io/extwiii/) | [Blog/Site](http://bilalcagiran.com) | [FreeCodeCamp](https://www.freecodecamp.com/extwiii) 
+### Bilal Cagiran  | [E-Mail](mailto:bcagiran@hotmail.com) | [Github](https://github.com/saurav38/) | [LinkedIn](https://linkedin.com/in/saurav-kumar-43b8b8136) | [CodePen](http://codepen.io/saurav_aryan)
 
 
